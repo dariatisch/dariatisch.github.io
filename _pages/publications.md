@@ -97,6 +97,8 @@ True Crime-Podcast “Mordlust - Verbrechen und ihre Hintergründe”, [Folge 14
 
 Studie: Frauen erben weniger als Männer – und zahlen dennoch mehr Erbschaftssteuer [Merkur](https://www.merkur.de/leben/geld/firma-frauen-erben-weniger-maenner-zahlen-mehr-erbschaftssteuern-schenkung-bargeld-unternehmen-zr-93011622.html)
 
+Altes Geld: Wo die reichsten Familien Deutschlands leben [Merkur](https://www.merkur.de/leben/geld/altes-geld-reichsten-familien-deutschlands-neckarsulm-bielefeld-melsung-lidl-aldi-bosch-oetker-zr-93027961.html)
+
 
 
 
