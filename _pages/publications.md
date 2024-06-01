@@ -15,7 +15,7 @@ Peer reviewed journal articles
 Tisch Daria, Manuel Schechtl (2024): The gender (tax) gap in parental transfers. Evidence from administrative inheritance and gift tax data. Socio-Economic Review, online first, [doi.org/10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038)
 
 
-Schechtl, Manuel, Daria Tisch (2024): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review, Volume 22(1),279–300, [doi.org/10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071) , [replication files](https://osf.io/qu9za/). 
+Schechtl, Manuel, Daria Tisch (2024): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review, Volume 22(1), 279–300, [doi.org/10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071) , [replication files](https://osf.io/qu9za/). 
 
 Tisch, Daria, Emma Ischinsky (2023): Top wealth and its historical origins: Identifying entrenched fortunes by linking rich lists over 100 years. Socius: Sociological Research for a Dynamic World [doi/10.1177/23780231231192774](https://journals.sagepub.com/doi/10.1177/23780231231192774), [replication files](https://osf.io/9fkav/).
 
