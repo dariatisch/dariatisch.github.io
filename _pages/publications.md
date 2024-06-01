@@ -12,13 +12,14 @@ You can find the replication files on [my OSF profile](https://osf.io/8sgp9).
 
 Peer reviewed journal articles
 ======
+Tisch Daria, Manuel Schechtl (2024): The gender (tax) gap in parental transfers. Evidence from administrative inheritance and gift tax data. Socio-Economic Review, online first, [doi.org/10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038)
+
+
+Schechtl, Manuel, Daria Tisch (2024): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review, Volume 22(1),279–300, [doi.org/10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071) , [replication files](https://osf.io/qu9za/). 
 
 Tisch, Daria, Emma Ischinsky (2023): Top wealth and its historical origins: Identifying entrenched fortunes by linking rich lists over 100 years. Socius: Sociological Research for a Dynamic World [doi/10.1177/23780231231192774](https://journals.sagepub.com/doi/10.1177/23780231231192774), [replication files](https://osf.io/9fkav/).
 
 Emma Ischinsky, Daria Tisch (2023): Women in the Global Super Rich. An analysis of the Forbes World’s Billionaires List, 2010 - 2023. Australian Feminist Studies [doi.org/10.1080/08164649.2023.2243649](https://dx.doi.org/10.1080/08164649.2023.2243649), [replication files](https://osf.io/yekqx/). 
-
-Schechtl, Manuel, Daria Tisch (2023): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review [doi.org/10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071) , [replication files](https://osf.io/qu9za/). 
-
 
 Tisch, Daria, Tamara Gutfleisch (2023): Unequal but just? Experimental evidence on (gendered) distributive justice principles in parental financial gifts. Socio-Economic Review, Volume 21(3), 1369–1390, [doi.org/10.1093/ser/mwac041](https://doi.org/10.1093/ser/mwac041), [replication files](https://osf.io/q7vbh/).
 
