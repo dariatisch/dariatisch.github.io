@@ -73,7 +73,6 @@ Wealth Reproduction
 
 Tisch, Daria, [Franziska Pradel](https://www.hfp.tum.de/digitalgovernance/team/dr-franziska-pradel-sinaci/): How can the social sciences benefit from knowledge graphs? A case study on using Wikidata and Wikipedia to examine the world’s billionaires. [Under Open Review](https://www.semantic-web-journal.net/system/files/swj3370.pdf)
 
-Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_ifb). Evidence from inheritance and gift tax data. Under review.
 
 [Lillie, Karen](https://www.karenlillie.org/), Charlotte de Alwis & Daria Tisch: Elite education and the super-rich
 
