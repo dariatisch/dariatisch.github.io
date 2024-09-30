@@ -76,7 +76,7 @@ Tisch, Daria, [Franziska Pradel](https://www.hfp.tum.de/digitalgovernance/team/d
 
 [Lillie, Karen](https://www.karenlillie.org/), Charlotte de Alwis & Daria Tisch: Elite education and the super-rich
 
-Tisch, Daria: Preservation of large fortunes over multiple generations in Germany <!--  (https://dariatisch.github.io/presentation_potsdam) -->: How do elite family networks relate to wealth preservation in Germany?
+Tisch, Daria:  [Preservation of large fortunes over multiple generations in Germany](https://dariatisch.github.io/pres_rich1913/): How do elite family networks relate to wealth preservation in Germany?
 
 Media coverage 
 ======
