@@ -14,7 +14,7 @@ Peer reviewed journal articles
 ======
 Tisch Daria, Manuel Schechtl (2024): The gender (tax) gap in parental transfers. Evidence from administrative inheritance and gift tax data. Socio-Economic Review, online first, [doi.org/10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038)
 
-von Hodenberg, C., Brückweh, K., Gajek, E. M., Hayashi, R., Lawrence, J., Streeter, M. F. R., & Tisch, D. (2024): Social Science Data as a Challenge for Contemporary History. Journal of Modern European History, online first. [doi.org/10.1177/16118944241290890](https://doi.org/10.1177/16118944241290890)
+von Hodenberg, C., Brückweh, K., Gajek, E. M., Hayashi, R., Lawrence, J., Streeter, M. F. R., & Tisch, D. (2024): Social Science Data as a Challenge for Contemporary History. Journal of Modern European History, 22(4), 460-474. [doi.org/10.1177/16118944241290890](https://doi.org/10.1177/16118944241290890)
 
 Schechtl, Manuel, Daria Tisch (2024): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review, Volume 22(1), 279–300, [doi.org/10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071) , [replication files](https://osf.io/qu9za/). 
 
