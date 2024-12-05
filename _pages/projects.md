@@ -28,4 +28,4 @@ In a first subproject we will examine the gender gap in parental gifts and inher
 Kutschen
 ======
 
-[Text des Links](map_frankfurt_jahre.html)
+[Karte der Kutschen](map_frankfurt_jahre.html)
