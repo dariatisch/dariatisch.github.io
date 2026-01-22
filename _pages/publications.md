@@ -61,6 +61,8 @@ Other
 
 Tisch, Daria (2021) "[Perceptions of Gender Wealth Inequalities within the Family](https://kups.ub.uni-koeln.de/52697/)". Dissertation. 
 
+Tisch, Daria (2025) "Wo Reichtum herkommt – und bleibt", [Gesellschaftsforschung](https://www.mpifg.de/1447875/2025-12-forsch-bericht-tisch?c=34034)
+
 Working papers
 ======
 
@@ -73,6 +75,8 @@ Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/) (2023): [The Gender
 
 Media coverage 
 ======
+
+Wie Erbschaften Geschlechterungleichheit verstärken [Die Presse](https://www.diepresse.com/19310321/wie-erbschaften-geschlechterungleichheit-verstaerken)
 
 Warum Frauen weniger erben und trotzdem mehr Steuern zahlen [Zeit Online](https://www.zeit.de/geld/2023-10/frauen-erbschaftssteuer-schenkungssteuer-gender-tax-gap)
 
