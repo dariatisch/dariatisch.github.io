@@ -36,10 +36,14 @@ Education
 Professional Experience
 ======
 
+- **Referentin**  
+  Bayerisches Landesamt für Statistik  
+  *since 01/2026*
+
 - **Senior Researcher**  
   Max Planck Institute for the Study of Societies  
   Research Group on Wealth and Social Inequality led by Prof. Dr. Jens Beckert  
-  *Since 04/2021*
+  *04/2021-12/2025*
 
 - **Research Associate**  
   Department of Social Sciences, Humboldt-Universität zu Berlin  
