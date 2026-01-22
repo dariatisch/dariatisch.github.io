@@ -19,6 +19,4 @@ Currently, I mainly study wealth inequality with a focus on the family, gender, 
 For my research I use various methods and data (survey data, experimental data, tax data, and web scraped data).
 
 
-I work in the [Research Group on Wealth and Social Inequality](https://www.mpifg.de/research/wealth-and-social-inequality) at the [Max Planck Institute for the Study of Societies in Cologne, Germany](https://mpifg.de).
-
 
