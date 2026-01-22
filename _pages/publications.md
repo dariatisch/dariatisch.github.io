@@ -12,6 +12,13 @@ You can find the replication files on [my OSF profile](https://osf.io/8sgp9).
 
 Peer reviewed journal articles
 ======
+
+Urbina, D. R., & Tisch, D. (2025): Perceived Fairness of Couples’ Division of Housework: Evidence From a Multi-Factorial Experiment in the United States. Gender & Society, 39(4), 590-629. [doi.org/10.1177/08912432251337416)](https://doi.org/10.1177/08912432251337416) , [replication files]( https://osf.io/dwj6q)
+
+Lillie, K., de Alwis, C., & Tisch, D. (2025): Male Heirs and Self-Made Women? Gender, Extreme Wealth and the Ivy League. AERA Open, 11. [doi.org/10.1177/23328584251400269](https://doi.org/10.1177/23328584251400269), [replication files](https://doi.org/10.3886/E238823V1)
+
+Lillie, K., & Tisch, D. (2025): A ‘Self-Made’ Billionaire? Gender and the Myth of Meritocratic Wealth. Sociology. [doi.org/10.1177/00380385251380755](https://doi.org/10.1177/00380385251380755), [replication files](https://osf.io/rymzj/) 
+
 Tisch Daria, Manuel Schechtl (2024): The gender (tax) gap in parental transfers. Evidence from administrative inheritance and gift tax data. Socio-Economic Review, online first, [doi.org/10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038)
 
 von Hodenberg, C., Brückweh, K., Gajek, E. M., Hayashi, R., Lawrence, J., Streeter, M. F. R., & Tisch, D. (2024): Social Science Data as a Challenge for Contemporary History. Journal of Modern European History, 22(4), 460-474. [doi.org/10.1177/16118944241290890](https://doi.org/10.1177/16118944241290890)
@@ -62,22 +69,7 @@ Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721) (2023): 
 Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/) (2023): [The Gender (Tax) Gap in Parental Transfers. Evidence from administrative inheritance and gift tax data](https://osf.io/preprints/socarxiv/kfetw/). Stone Center Working Paper Series. no. 68 [presentation](https://dariatisch.github.io/presentation_gender_transfer_gap/)
 
 
-Work in progress
-======
 
-[Urbina, Daniela R.](https://www.danielaurbina.com/), Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
-
-[Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch, [Nhat An Trinh](https://natrinh.github.io/): The Dynastic Principle of
-Wealth Reproduction
-
-[Nutz, Theresa](https://theresanutz.github.io/), [Kapelle, Nicole](https://nkapelle.github.io/) & Daria Tisch: Gendered pathways to wealth: The self-assessed relevance of different accumulation channels across the wealth distribution. Under review.
-
-Tisch, Daria, [Franziska Pradel](https://www.hfp.tum.de/digitalgovernance/team/dr-franziska-pradel-sinaci/): How can the social sciences benefit from knowledge graphs? A case study on using Wikidata and Wikipedia to examine the world’s billionaires. [Under Open Review](https://www.semantic-web-journal.net/system/files/swj3370.pdf)
-
-
-[Lillie, Karen](https://www.karenlillie.org/), Charlotte de Alwis & Daria Tisch: Elite education and the super-rich
-
-Tisch, Daria:  [Preservation of large fortunes over multiple generations in Germany](https://dariatisch.github.io/pres_rich1913/): How do elite family networks relate to wealth preservation in Germany?
 
 Media coverage 
 ======
