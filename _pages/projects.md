@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Projects
+Digital projects
 ======
 
 The largest German fortunes
@@ -16,16 +16,20 @@ Family network of superrich families:
 <iframe src="/files/lg_widget.html" scrolling="no"  height="950" width="100%"  style="border:none;"></iframe>
 
 
-German Inheritance and Gift Tax Data
-======
-I just started a larger project based on the German inheritance and gift tax data. 
-
-In a first subproject we will examine the gender gap in parental gifts and inheritances. Prior research has documented significant gender wealth inequalities in most countries around the world. However, less is known about how the family through intergenerational transfers in combination with institutional factors such as the tax system shape the gender wealth gap. To examine gender differences in parental transfers, we look at the distribution of inheritances and gifts by gender and asset type. We then examine if women and men benefit differently from tax exemptions resulting in a gender gap in the effective tax rate. Preliminary analyses indicate that the gender gift gap is much larger than the gender inheritance gap. Furthermore, preliminary analyses indicate that the German inheritance and gift tax system contributes to gender wealth inequality.
-
-<!-- <img alt="" src="/files/effective_tax.png" /> -->
-
-
-Kutschen
+Kutschen in Frankfurt
 ======
 
 [Karte der Kutschen](map_frankfurt_jahre.html)
+
+
+
+Vom Verzeichnis zur Karte: Rudolf Martins Millionärsliste als Zugang zur Raumgeschichte des Vermögens 1911–1914
+======
+
+Gemeinsam mit Eva Maria Gajek (IRS Erkner)
+
+[Projektwebsite](https://stadt-raum-geschichte.de/forschung/projekte/where-the-rich-live/vom-verzeichnis-zur-karte)
+
+Das Projekt nutzt die Bände von Rudolf Martins „Jahrbuch des Vermögens und Einkommens der Millionäre“, um die räumliche Verteilung des Reichtums im Deutschen Kaiserreich am Vorabend des Ersten Weltkriegs zu untersuchen. Durch die Überführung von Martins Millionärsverzeichnissen in eine interaktive räumliche Visualisierung wird nachvollziehbar, wo sich unternehmerische, finanzielle und grundbesitzende Vermögen konzentrierten und welche regionalen sowie lokalen Muster der Herausbildung von Vermögenseliten sich in Städten und Provinzen abzeichneten. Die digitale Karte verwandelt eine statische historische Quelle in eine explorative Erzählung, in der interessierte Bürger:innen und Forschende einzelne Einträge aufrufen, Vermögenstypen vergleichen und räumliche Dynamiken sozialer Ungleichheit sichtbar machen können. Über die Bereitstellung neuer visueller Evidenz hinaus reflektiert das Projekt die methodischen Implikationen der Transformation einer textbasierten Archivquelle in einen digitalen Datensatz und thematisiert dabei Herausforderungen der Klassifikation, Geokodierung und interpretativen Übertragung. Durch die Verbindung historischer Reichtumsforschung mit digitalen Methoden eröffnet die Studie zudem neue Einsichten in langfristige Muster der Vermögenskonzentration und leistet einen Beitrag zu aktuellen Debatten in der (historischen) Soziologie und der Kultur- und Sozialgeschichte.
+
+[Entwurf der Karte](map_berufe_OSM.html)
