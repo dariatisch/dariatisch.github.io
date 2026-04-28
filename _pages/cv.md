@@ -119,6 +119,11 @@ List of Teaching Activities
 ======
 ## Courses
 
+
+- **Gender Aspekte der Data Science**  
+  Technische Hochschule Nürnberg Georg Simon Ohm  
+  *2026*
+  
 - **Fortgeschrittene Methoden (Vorlesung und Übung)**  
   Bergische Universität Wuppertal  
   *2024/2025*
