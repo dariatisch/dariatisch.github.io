@@ -121,12 +121,12 @@ List of Teaching Activities
 
 
 - [**Gender Aspekte der Data Science**](https://dariatisch.github.io/gender_data_science_2026/)
-- 
+  
   Technische Hochschule Nürnberg Georg Simon Ohm  
   *2026*
   
 - [**Fortgeschrittene Methoden (Vorlesung und Übung)** ](https://dariatisch.github.io/wup2024/)
-- 
+  
   Bergische Universität Wuppertal  
   *2024/2025*
 
