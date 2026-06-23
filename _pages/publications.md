@@ -13,9 +13,6 @@ You can find the replication files on [my OSF profile](https://osf.io/8sgp9).
 Peer reviewed journal articles
 ======
 
-
-Schechtl, Manuel, Trinh, Nhat An, Tisch, Daria, Carranza, Rafael, and Pfeffer, Fabian (Forthcoming): Where Wealth Concentration is Higher, the Likelihood to Help Others is Lower, [*Contexts*](https://www.asanet.org/publications/contexts/).
-
 Habicht, Isabel M., and Daria Tisch (2026): Rethinking Gender and Other Seemingly Nonmanipulable Characteristics for Causal Analysis. KZfSS Kölner Zeitschrift für Soziologie und Sozialpsychologie. [doi.org/10.1007/s11577-026-01054-z](https://doi.org/10.1007/s11577-026-01054-z).
 
 Trinh, Nhat An, Tisch, Daria, and Schechtl, Manuel. (2026): The (In)Appropriateness of Inequality: A Factorial Survey Experiment on Wealth Transfers within Families. Social Forces. [doi.org/10.1093/sf/soag010](https://doi.org/10.1093/sf/soag010).
